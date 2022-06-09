@@ -18,7 +18,7 @@ Dans ce projet je travail avec l'API de GPT 3 installé via:
 pip install openai
 ```
 
-Les corpus analysé dans ce travail sont stockés dans le dossier txt
-Pour plus d'information vous pouvez consulter le rapport et Jupyter Notebook stylometry.ipynb
+Les corpus analysé dans ce travail sont stockés dans le dossier TXT
+Pour plus d'information vous pouvez consulter <a href = "https://github.com/NoxuuLab/stylometry/blob/main/Nouveau_Frankenstein_GPT3.pdf">le rapport</a> et <a href = "[https://github.com/NoxuuLab/stylometry/blob/main/Nouveau_Frankenstein_GPT3.pdf](https://github.com/NoxuuLab/stylometry/blob/main/stylometry.ipynb)"> Jupyter Notebook </a>
 
 Ce projet était réalisé dans le cadre de cour MA ISH à l'Université de Lausanne. 
